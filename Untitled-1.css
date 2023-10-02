@@ -1,0 +1,9 @@
+
+@media screen and (max-widht:78px){
+    .produto-conteiner{
+    width:100%;
+        flex-direction: column;
+    }
+    
+}
+    
